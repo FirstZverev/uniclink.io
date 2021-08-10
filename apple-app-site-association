@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "49436C2U7G.ru.fmeter.escortconnect",
-                "paths": [ "*"]
+                "paths": [ "/*"]
             }
         ]
     }
