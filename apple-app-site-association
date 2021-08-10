@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "BQG34RQZBW.ru.fmeter.escortconnect",
-                "paths": [ "*"]
+                "paths": [ "/uniclink.io/*"]
             }
         ]
     }
